@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+. "${0%/*}/init.shlib"
+
+backeus "${1}"
+
+#vim:syntax=bash
